@@ -1,0 +1,26 @@
+[
+    {
+        "id":"1",
+        "usuario":"Melissa Henao",
+        "numeroCuenta":"111111",
+        "valor":"1250000"
+    },
+    {
+        "id":"2",
+        "usuario":"Dubier duque",
+        "numeroCuenta":"222222",
+        "valor":"800000"
+    },
+    {
+        "id":"3",
+        "usuario":"Maria Vahos",
+        "numeroCuenta":"333333",
+        "valor":"2000000"
+    },
+    {
+        "id":"4",
+        "usuario":"Libardo Acevedo",
+        "numeroCuenta":"444444",
+        "valor":"5000000"
+    }
+]
